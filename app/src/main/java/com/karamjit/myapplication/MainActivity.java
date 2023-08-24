@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.karamjit.toasty.Toasty;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
